@@ -1,7 +1,7 @@
-# ??? IBM BOB - Banking Fraud Detection System
+IBM BOB - Banking Fraud Detection System
 
-**A Machine Learning & Financial Risk Screening Platform**  
-*Inspired by the Bank of Baroda (BOB) & IBM Enterprise Analytics initiatives, developed for and compatible with IBM Bob (`bobide`).*
+A Machine Learning & Financial Risk Screening Platform  
+Inspired by the Bank of Baroda (BOB) & IBM Enterprise Analytics initiatives, developed for and compatible with IBM Bob (`bobide`).*
 
 ---
 
